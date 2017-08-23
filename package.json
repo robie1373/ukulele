@@ -1,0 +1,23 @@
+{
+  "name": "ukulele",
+  "version": "1.0.0",
+  "description": "ukulele page",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robie1373/ukulele.git"
+  },
+  "author": "Robie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robie1373/ukulele/issues"
+  },
+  "homepage": "https://github.com/robie1373/ukulele#readme"
+}
